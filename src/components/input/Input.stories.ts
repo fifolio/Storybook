@@ -22,3 +22,7 @@ export const Large = () => Input({
     placeholder: 'Enter text',
     size: "large"
 })
+
+Small.storyName = 'Small Input'
+Medium.storyName = 'Medium Input'
+Large.storyName = 'Large Input'
